@@ -1,6 +1,6 @@
-<p><h1 align="center">Blog App</h></p><hr>
+<p><h1 align="center">Blog App</h><hr>
 
-<h3 align="center">This Blogging web application project is purely made with Django as the backend and Bootstrap as the frontend.</h3>
+<h3 align="center">This Blogging web application project is purely made with Django as the backend and Bootstrap as the frontend.</h3></p>
 
 ## Installation Instructions
 
