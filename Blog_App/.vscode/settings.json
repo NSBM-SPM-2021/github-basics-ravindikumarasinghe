@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/756e16d8-34a0-45d4-ace7-0d5d7da76a68/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/world-paper",
-    "appService.deploySubpath": "."
-}
