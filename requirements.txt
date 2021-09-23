@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Django==3.2.6
 numpy==1.20.3
 asyncio==3.4.3
 asgiref==3.4.1
+=======
+Django
+numpy
+asyncio
+asgiref
+>>>>>>> dd0a3ca4acef7f960f3717a0b3c56bd8849ba4aa
