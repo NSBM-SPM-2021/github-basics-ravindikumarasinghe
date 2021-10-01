@@ -1,8 +1,9 @@
-## Blog Website 
+## &#129488;Blog Website 
 This is a simple blog web application built using Django. Using the admin panel or using the database the CRUD opertions can be done. The technologies used for this website are Django, Python, Boostsrap and hosted in Microsoft Azure. 
 
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/demo.gif" alt="demo" align="center"></p></br>
 
+## Run website 
 Install Dependencies
 ```
 pip install -r requirements.txt
@@ -28,5 +29,7 @@ python manage.py runserver
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/Project%20Board/1.JPG" alt="screenshot 1" align="center"></p></br></br>
 
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/Project%20Board/2.JPG" alt="screenshot 1" align="center"></p></br>
+
+<i>&#128515;Happy coding</i>
 
 
