@@ -1,3 +1,5 @@
+&#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346;
+
 ## &#129488;Blog Website 
 This is a simple blog web application built using Django. Using the admin panel or using the database the CRUD opertions can be done. The technologies used for this website are Django, Python, Boostsrap and hosted in Microsoft Azure. 
 
@@ -30,6 +32,6 @@ python manage.py runserver
 
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/Project%20Board/2.JPG" alt="screenshot 1" align="center"></p></br>
 
-<i align="center">&#128515;Happy coding</i>
+&#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346;
 
 
