@@ -30,6 +30,6 @@ python manage.py runserver
 
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/Project%20Board/2.JPG" alt="screenshot 1" align="center"></p></br>
 
-<i>&#128515;Happy coding</i>
+<i align="center">&#128515;Happy coding</i>
 
 
