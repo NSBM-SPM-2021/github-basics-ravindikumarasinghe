@@ -1,7 +1,10 @@
 &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; &#127826; &#129346; 
 
 ## &#129488;Blog Website 
-This is a simple blog web application built using Django. Using the admin panel or using the database the CRUD opertions can be done. The technologies used for this website are Django, Python, Boostsrap and hosted in Microsoft Azure. The test cases are done using the Django unit testing. The python framework Django ensures the high security, pre build admin panel to customize and also various advanced features that will enable the high end web application developement. 
+This is a simple blog web application built using Django. Using the admin panel or using the database the CRUD opertions can be done. The technologies used for this website are Django, Python, Boostsrap and hosted in Microsoft Azure. The test cases are done using the Django unit testing. The python framework Django ensures the high security, pre build admin panel to customize and also various advanced features that will enable the high end web application developement.
+
+
+Reach the website using the link [here](https://blogman.azurewebsites.net/). Please make sure to reload the link two three times if you are unable to load it. The issue comes soley because the site might in the sleep mode. 
 
 <p><img src="https://github.com/NSBM-SPM-2021/github-basics-ravindikumarasinghe/blob/main/Assets/demo.gif" alt="demo" align="center"></p></br>
 
